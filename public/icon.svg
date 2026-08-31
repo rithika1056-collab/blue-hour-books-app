@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#233260" />
+      <stop offset="55%" stop-color="#1b2749" />
+      <stop offset="100%" stop-color="#0c1224" />
+    </radialGradient>
+    <linearGradient id="spine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9884fb" />
+      <stop offset="100%" stop-color="#6a45e8" />
+    </linearGradient>
+    <linearGradient id="page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fdfbf7" />
+      <stop offset="100%" stop-color="#f4e9d4" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <g transform="translate(256 256)">
+    <g transform="rotate(-8)">
+      <rect x="-70" y="-110" width="50" height="220" rx="8" fill="url(#spine)" />
+      <rect x="-20" y="-110" width="50" height="220" rx="8" fill="#e6a823" />
+      <rect x="30" y="-110" width="50" height="220" rx="8" fill="#5470b3" />
+    </g>
+    <circle cx="120" cy="-130" r="34" fill="#f5c451" opacity="0.95" />
+    <circle cx="120" cy="-130" r="46" fill="none" stroke="#f5c451" stroke-width="2" opacity="0.4" />
+  </g>
+</svg>
