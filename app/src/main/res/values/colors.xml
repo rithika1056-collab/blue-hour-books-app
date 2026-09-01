@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="midnight_950">#0C1224</color>
+    <color name="midnight_900">#141D36</color>
+    <color name="midnight_800">#1B2749</color>
+    <color name="midnight_700">#233260</color>
+    <color name="lavender_500">#7D61F4</color>
+    <color name="lavender_400">#9884FB</color>
+    <color name="lavender_300">#BBAEFF</color>
+    <color name="cream_50">#FDFBF7</color>
+    <color name="gold_400">#F5C451</color>
+</resources>

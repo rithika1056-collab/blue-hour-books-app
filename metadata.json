@@ -1,0 +1,6 @@
+{
+  "name": "Blue Hour Books",
+  "description": "Your personal completed-book tracking library. Cozy, bookish, and yours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
